@@ -37,3 +37,7 @@ git clone https://github.com/<username>/YachtValAI.git
 cd YachtValAI
 pip install -r requirements.txt
 
+# Tek komutla çalıştırmak
+./run_pipeline.sh
+
+
