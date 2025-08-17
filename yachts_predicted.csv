@@ -1,0 +1,4 @@
+name,price,year,age,predicted_price
+Yacht A,5000000.0,2018,7,6538000.0
+Yacht B,7500000.0,2020,5,7214000.0
+Yacht C,6200000.0,2019,6,6538000.0
